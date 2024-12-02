@@ -1,0 +1,11 @@
+{
+  "name": "ljammerino",
+  "version": "0.1.0",
+  "description": "It's time to jammerino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Richard",
+  "license": "MIT"
+}
